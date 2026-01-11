@@ -6,7 +6,7 @@ PixelBrain is an advanced AI photo-editing ecosystem that moves beyond static pr
 
 ## 🔗 Project Links
 
-* **Live Deployment, Source & Code:** [Hugging Face Spaces - PixelBrain](https://huggingface.co/spaces/devrajsaini/PixelBrain/tree/main)
+* **Live Deployment, Source & Code:** [Hugging Face Spaces - PixelBrain](https://huggingface.co/spaces/devrajsaini/PixelBrain)
 * **Model Training & Datasets (Kaggle):**
     * [CNN: Indoor vs. Outdoor Classification](https://www.kaggle.com/code/devrajnsut/indoor-outdoor)
     * [CNN: Day vs. Night Classification](https://www.kaggle.com/code/devrajnsut/day-night)
